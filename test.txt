@@ -2,13 +2,4 @@
 333333
 6666666666
 
-<<<<<<< HEAD
-这是master创建的分支
-
-
-=======
-
-create a new Branch
->>>>>>> feature1
-
-Creating a new branch is quick and simple.
+这是修改后的内容
