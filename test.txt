@@ -7,6 +7,4 @@
 
 在这里我又进行了一次修改
 
-git is a free software
 
-我都说了这是一个免费的软件
